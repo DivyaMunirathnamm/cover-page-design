@@ -148,8 +148,7 @@ Publish the website in the localhost.
 
 
 ## Output:
-
-![Screenshot from 2023-12-03 21-47-54](https://github.com/DivyaMunirathnamm/cover-page-design/assets/147474097/11aff0c4-503a-473a-9b85-40d84acce6cd)
+![Screenshot from 2023-12-20 15-36-53](https://github.com/DivyaMunirathnamm/cover-page-design/assets/147474097/0639b2be-397b-4de1-94b6-fd7ecf874c33)
 
 ## Result:
 The program for designing book front cover page using HTML and CSS is executed successfully.
